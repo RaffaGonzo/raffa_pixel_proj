@@ -30,4 +30,4 @@ len_2 = len(img[0])
 file_name = "new_" + url
 destroy(img)
 cv2.imwrite(file_name, img)
-print(file_name + " has been writen!")
+print(file_name + " has been writen! Enjoy!")
